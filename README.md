@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ejike-avatar-animated-under1mb.gif" alt="Animated emblem: gear, circuits, pulse, and shield" width="216">
+</p>
+
 # Hi, I am eiejay
 
 I work in healthcare IT and cybersecurity. My background is QA engineering, clinical work on Epic and PointClickCare, and security training, and I build small tools, including AI tools, to prove what I can do. Everything below runs; each project has a walkthrough with real output.
