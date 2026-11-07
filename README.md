@@ -33,4 +33,4 @@ Cloud security study turned into tools: a sign-in anomaly scorer, an IAM least p
 - CompTIA Security+ and CySA+, active through June 2028
 - HIPAA training certificate, November 2026
 - Licensed Vocational Nurse, Texas
-- ThinkCloudly coursework (2025): SOC analyst training, Azure Security, PowerShell automation, and the AWS Solutions Architect Associate track, studied without sitting the certification exam
+- ThinkCloudly coursework (2025): SOC analyst training, Azure Security, PowerShell automation, and the AWS Solutions Architect Associate track, studied as coursework, certification exam yet to be sat
