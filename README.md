@@ -5,7 +5,7 @@ I work in healthcare IT and cybersecurity. My background is QA engineering, clin
 ## What I am focused on
 
 - Security operations: log analysis, detection, and triage practice
-- Cloud security: identity, access reviews, and account baselines
+- Cloud security: identity, access reviews, and account baselines across Azure and AWS
 - Healthcare IT support: EHR tickets, downtime work, and go-live readiness
 - QA engineering: test design, defect work, and accessibility checks
 - Small AI tools that judge output honestly, with their accuracy stated plainly
@@ -22,10 +22,11 @@ Support tools from my clinical years: a ticket priority tool, a downtime kit, a 
 How I practice QA: templates, a sample test cycle with the failures left in, API test cases, a WCAG accessibility checklist, and a duplicate defect detector.
 
 **Cloud Security Study Notes** - github.com/eiejay/Cloud-Security-Study-Notes
-Cloud security study turned into tools: a sign-in anomaly scorer, an IAM least privilege review with a policy checker, account baseline runbooks, and a report-only PowerShell script for dormant accounts.
+Cloud security study turned into tools: a sign-in anomaly scorer, an IAM least privilege review with a policy checker, account baseline runbooks for AWS and Azure, and a report-only PowerShell script for dormant accounts.
 
-## Credentials
+## Credentials and training
 
 - CompTIA Security+ and CySA+, active through June 2028
 - HIPAA training certificate, November 2026
 - Licensed Vocational Nurse, Texas
+- ThinkCloudly coursework (2025): SOC analyst training, Azure Security, PowerShell automation, and the AWS Solutions Architect Associate track, studied without sitting the certification exam
